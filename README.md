@@ -1,5 +1,6 @@
 # nurse_scheduling
 nurse_scheduling WEB app using reinforcement learning
+Reinforcement learning mainly uses Q-learning.
 
 Code : Python  Version : 3.11
 
